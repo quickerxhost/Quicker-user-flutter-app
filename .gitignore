@@ -1,0 +1,17 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/pubspec.lock
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+android/local.properties
+ios/Flutter/flutter_export_environment.sh
+lib/firebase_options.dart
+.env
